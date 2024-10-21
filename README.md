@@ -41,7 +41,7 @@ public class XXX : ModuleRules
 -----
 > [!NOTE]
 > · Ensure the network connection is normal and stable.\
-> · If you inherit from `CMakeBuilder` and override the `AutoAddIncludeLib` function, you need to manually create an instance of the subclass.
+> · If you inherit from `CMakeBuilder` and override the `AutoAddIncludeLib` function, you need to manually create an instance of the subclass.\
 > · Now, feel free to expand and create your own Unreal Engine!
 
 
