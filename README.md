@@ -28,7 +28,7 @@ public class XXX : ModuleRules
 	public XXX(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PublicDependencyModuleNames.AddRange(new string[] {});
-		PrivateDependencyModuleNames.AddRange(new string[] 
+		PrivateDependencyModuleNames.AddRange(new string[] {});
 
 #if true                          
 		CMakeBuilder builder = UBTMake.Init(Target, this);
